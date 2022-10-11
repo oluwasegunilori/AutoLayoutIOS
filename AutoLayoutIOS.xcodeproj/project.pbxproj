@@ -16,6 +16,7 @@
 		707A7B1528F61D93003B8833 /* AutoLayoutIOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707A7B1428F61D93003B8833 /* AutoLayoutIOSTests.swift */; };
 		707A7B1F28F61D93003B8833 /* AutoLayoutIOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707A7B1E28F61D93003B8833 /* AutoLayoutIOSUITests.swift */; };
 		707A7B2128F61D93003B8833 /* AutoLayoutIOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707A7B2028F61D93003B8833 /* AutoLayoutIOSUITestsLaunchTests.swift */; };
+		707A7B2E28F61F02003B8833 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 707A7B2D28F61F02003B8833 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		707A7B1A28F61D93003B8833 /* AutoLayoutIOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoLayoutIOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		707A7B1E28F61D93003B8833 /* AutoLayoutIOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutIOSUITests.swift; sourceTree = "<group>"; };
 		707A7B2028F61D93003B8833 /* AutoLayoutIOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutIOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		707A7B2D28F61F02003B8833 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		707A7AF128F61D91003B8833 = {
 			isa = PBXGroup;
 			children = (
+				707A7B2D28F61F02003B8833 /* README.md */,
 				707A7AFC28F61D91003B8833 /* AutoLayoutIOS */,
 				707A7B1328F61D93003B8833 /* AutoLayoutIOSTests */,
 				707A7B1D28F61D93003B8833 /* AutoLayoutIOSUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				707A7B0A28F61D93003B8833 /* LaunchScreen.storyboard in Resources */,
 				707A7B0728F61D93003B8833 /* Assets.xcassets in Resources */,
+				707A7B2E28F61F02003B8833 /* README.md in Resources */,
 				707A7B0528F61D91003B8833 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
